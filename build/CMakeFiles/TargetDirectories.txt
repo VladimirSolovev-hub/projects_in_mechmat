@@ -1,0 +1,3 @@
+/Users/vladimirsolovev/Documents/prog/homework/2sem/build/CMakeFiles/nagel.dir
+/Users/vladimirsolovev/Documents/prog/homework/2sem/build/CMakeFiles/edit_cache.dir
+/Users/vladimirsolovev/Documents/prog/homework/2sem/build/CMakeFiles/rebuild_cache.dir
